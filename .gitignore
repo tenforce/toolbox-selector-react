@@ -1,0 +1,7 @@
+node_modules/
+build/
+dist-example/
+**/__snapshots__/**
+example/node_modules/
+**/.idea/**
+yarn-error.log
